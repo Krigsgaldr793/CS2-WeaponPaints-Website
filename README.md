@@ -46,6 +46,6 @@ Change the IP for the Serverlist: serverinfo.php
 </div>
 
 
-Credits to:
+Credits to ->
 
 https://github.com/LielXD
