@@ -32,6 +32,8 @@ Edit skins/index.php line 869 to change link of Home Button
 
 Change the IP for the Serverlist: serverinfo.php
 
+## Preview
+
 <div align="center">
 <a href="https://i.gyazo.com/7f2323c022853777ea6d1ef75ffc8cf7.png">
 <img src="https://i.gyazo.com/7f2323c022853777ea6d1ef75ffc8cf7.png" />
