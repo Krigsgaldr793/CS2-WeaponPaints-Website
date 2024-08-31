@@ -5,7 +5,7 @@ $GameQ = new \GameQ\GameQ();
 
 $GameQ->addServer([
     'type' => 'csgo',
-    'host' => '192.168.178.70:27015'
+    'host' => '127.0.0.1:27015'
 ]);
 
 
