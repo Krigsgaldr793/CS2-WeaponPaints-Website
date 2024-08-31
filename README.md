@@ -27,3 +27,4 @@ It's totally free and credit would be appreciated. :)
   * Minimum PHP version is 8.0!
 *******
 Edit index.php to change link of Home Button
+Edit skins/index.php line 869 to change link of Home Button
