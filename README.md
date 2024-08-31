@@ -29,3 +29,5 @@ It's totally free and credit would be appreciated. :)
 Edit index.php to change link of Home Button <br>
 
 Edit skins/index.php line 869 to change link of Home Button
+
+Change the IP for the Serverlist: serverinfo.php
