@@ -14,6 +14,7 @@ $servers = [
     '192.168.178.70:27024'
 ];
 
+
 foreach ($servers as $server) {
     $GameQ->addServer([
         'type' => 'csgo',
