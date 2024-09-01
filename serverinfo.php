@@ -1,18 +1,8 @@
 <?php
 require_once 'vendor/autoload.php';
+require_once 'config.php'; // Including the config.php to get $server variable 
 
 $GameQ = new \GameQ\GameQ();
-
-// Array of Servers, change to your IP and Port
-$servers = [
-    '192.168.178.70:27015',
-    '192.168.178.70:27017',
-    '192.168.178.70:27018',
-    '192.168.178.70:27019',
-    '192.168.178.70:27016',
-    '192.168.178.70:27020',
-    '192.168.178.70:27024'
-];
 
 foreach ($servers as $server) {
     $GameQ->addServer([

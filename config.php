@@ -31,6 +31,17 @@ $Website_Settings = [
 // Write here your steam api key, get one from here: https://steamcommunity.com/dev/apikey.
 $SteamAPI_KEY = '';
 
+// Write here your IP from the server you want to display in the serverlist table
+$servers = [
+    '192.168.178.70:27015',
+    '192.168.178.70:27017',
+    '192.168.178.70:27018',
+    '192.168.178.70:27019',
+    '192.168.178.70:27016',
+    '192.168.178.70:27020',
+    '192.168.178.70:27024'
+];
+
 // Write here your database login details.
 $DatabaseInfo = [
     'hostname' => '',
