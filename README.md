@@ -45,6 +45,11 @@ Change the IP for the Serverlist: serverinfo.php
 </a>
 </div>
 
+<div align="center">
+<a href="https://i.gyazo.com/31cf883abf4f5ece115e5e18d493d3f2.png">
+<img src="https://i.gyazo.com/31cf883abf4f5ece115e5e18d493d3f2.png" />
+</a>
+</div>
 
 Credits to:
 
