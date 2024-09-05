@@ -40,9 +40,9 @@ Change the IP for the Serverlist: config.php
 ## Preview
 
 <div align="center">
-<a href="https://i.gyazo.com/863aedafacd3b75c5ce3f8cc04ac55f7.png">
-<img src="https://i.gyazo.com/863aedafacd3b75c5ce3f8cc04ac55f7.png" />
-</a>
+<a href="https://i.gyazo.com/31cf883abf4f5ece115e5e18d493d3f2.png">
+<img src="https://i.gyazo.com/31cf883abf4f5ece115e5e18d493d3f2.png" />
+ </a>
 </div>
 
 <div align="center">
